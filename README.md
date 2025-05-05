@@ -1,30 +1,35 @@
-<h1 align="center">Hi 👋, I'm Stephan</h1>
-<h3 align="center">A backend developer with just a splash of frontend.</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/stephan-lorensen-a418031b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephan-lorensen-a418031b7/" height="30" width="40" /></a>
-</p>
+# 👨‍💻 Stephan Lorensen | @Stephan2620
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Full-stack Developer | Ruby on Rails & C# Enthusiast | Passionate Problem Solver**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephan2620&show_icons=true&locale=en&theme=radical&count_private=true" alt="stephan2620" /></p>
+Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong background in both frontend and backend development. With a core focus on Ruby on Rails and additional experience in C#, I bring a versatile skill set to any development team. I'm particularly passionate about clean code, maintainable systems, and automation.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephan2620&show_icons=true&locale=en&theme=radical&count_private=true" alt="stephan2620" /></p>
+## 🔧 Tech Stack
+- **Languages & Frameworks**: Ruby, Rails, C#, Python, Kotlin, SQL  
+- **Frontend**: HTML, CSS, Tailwind, JavaScript, Stimulus JS  
+- **CMS & Design**: WordPress, Photoshop, Adobe XD, Illustrator  
+- **Other Tools**: Git, GitHub, Raspberry Pi, 3D printing setups
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephan2620&theme=radical&count_private=true" alt="stephan2620" /></p>
+## 👨‍💼 Experience Highlights
+- **CrossBorderSupermarkets (2022–2025)**  
+  Evolved from junior to senior developer. Owned the frontend experience across 24 e-commerce websites. Responsible for design systems, UI/UX consistency, and strategic technical decisions in a small, agile team.
 
-<!--
-**Stephan2620/Stephan2620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Aldi (2017–2021)**  
+  Held leadership responsibilities as 1st assistant. Managed operations, trained new managers, and handled logistics in a fast-paced retail environment.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Datamatiker, Zealand Erhvervsakademi** (2020–2022)  
+- **Multimediedesigner, Cphbusiness** (2018–2019)  
+- **HF, VUC – ordblinde linje** (2015–2017)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 A Bit More About Me
+Outside of work, I enjoy exploring smart home tech, tinkering with Raspberry Pi, and 3D printing cool projects. I'm based in Denmark near BonBon Land, where I live with my partner and our amazing little son.
+
+## 📫 Contact
+- **Email**: slorensen@outlook.com  
+- **Phone**: +45 4159 7597
+
+---
+
+> *“Make your hobby your job, and you’ll never work a day in your life.”*  
+That’s the mindset I live by — and why I love coding.

@@ -22,10 +22,6 @@ Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong b
 ## 📌 A Bit More About Me
 Outside of work, I enjoy exploring smart home tech, tinkering with Raspberry Pi, and 3D printing cool projects. I'm based in Denmark near BonBon Land, where I live with my partner and our amazing little son.
 
-## 📫 Contact
-- **Email**: slorensen@outlook.com  
-- **Phone**: +45 4159 7597
-
 ---
 
 > *“Make your hobby your job, and you’ll never work a day in your life.”*  

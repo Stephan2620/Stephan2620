@@ -2,7 +2,7 @@
 
 **Full-stack Developer | Ruby on Rails & C# Enthusiast | Passionate Problem Solver**
 
-Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong background in both frontend and backend development. With a core focus on Ruby on Rails and additional experience in C#, I bring a versatile skill set to any development team. I'm particularly passionate about clean code, maintainable systems, and automation.
+Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong background in both frontend and backend development. With a core focus on Ruby on Rails, I bring a versatile skill set to any development team. I'm particularly passionate about clean code, maintainable systems, and automation.
 
 ## 🔧 Tech Stack
 - **Languages & Frameworks**: Ruby, Rails, C#, Python, Kotlin, SQL  
@@ -17,7 +17,7 @@ Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong b
 ## 🎓 Education
 - **Datamatiker, Zealand Erhvervsakademi** (2020–2022)  
 - **Multimediedesigner, Cphbusiness** (2018–2019)  
-- **HF, VUC – ordblinde linje** (2015–2017)
+- **HF, VUC – Dyslexic line** (2015–2017)
 
 ## 📌 A Bit More About Me
 Outside of work, I enjoy exploring smart home tech, tinkering with Raspberry Pi, and 3D printing cool projects. I'm based in Denmark near BonBon Land, where I live with my partner and our amazing little son.

@@ -14,9 +14,6 @@ Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong b
 - **CrossBorderSupermarkets (2022–2025)**  
   Evolved from junior to senior developer. Owned the frontend experience across 24 e-commerce websites. Responsible for design systems, UI/UX consistency, and strategic technical decisions in a small, agile team.
 
-- **Aldi (2017–2021)**  
-  Held leadership responsibilities as 1st assistant. Managed operations, trained new managers, and handled logistics in a fast-paced retail environment.
-
 ## 🎓 Education
 - **Datamatiker, Zealand Erhvervsakademi** (2020–2022)  
 - **Multimediedesigner, Cphbusiness** (2018–2019)  

@@ -20,7 +20,7 @@ Hi there! I'm Stephan, a dedicated and detail-oriented developer with a strong b
 - **HF, VUC – Dyslexic line** (2015–2017)
 
 ## 📌 A Bit More About Me
-Outside of work, I enjoy exploring smart home tech, tinkering with Raspberry Pi, and 3D printing cool projects. I'm based in Denmark near BonBon Land, where I live with my partner and our amazing little son.
+Outside of work, I enjoy exploring smart home tech, tinkering with Raspberry Pi, and 3D printing cool projects. I'm based in Denmark, where I live with my partner and our amazing son and daughter.
 
 ---
 
